@@ -30,7 +30,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
     
-    ### It’s when a user interacts with the website - mouse click, button press, scrolling, etc. 
+    ### It’s an object based representation of the source HTML document. It stands for Document Object Model.
 
 2. What is an event?
 
